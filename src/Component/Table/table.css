@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Lobster+Two:ital@1&family=Pacifico&family=Schoolbell&display=swap');
+
+
+.tabelContainer {
+    margin-top: 30px;
+}
+.thead-dark {
+    border-top: 3px solid rgb(121, 246, 250);
+    border-right: 3px solid rgb(121, 246, 250);
+    border-left: 3px solid rgb(121, 246, 250);
+    border-bottom: 5px solid rgb(255, 81, 0);
+}
+.thead-dark th {
+    font-size: 21px;
+}
+.colList {
+    background-color: rgba(255, 255, 255, 0.835);
+    font-size: 25px;
+}
+.noThList {
+    width: 50px;
+}
+.dateThList {
+    width: 155px;
+}
+.timeThList {
+    width: 100px;
+}
+.listThList {
+    width: 645px;
+}
+.actionThList {
+    text-align: center;
+}
+.isiList {
+    font-family: 'Schoolbell', cursive;
+    font-weight: bold;
+}

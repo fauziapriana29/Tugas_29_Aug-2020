@@ -1,0 +1,14 @@
+.inputContainer {
+    margin-top: 65px;
+}
+.input-group {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+.inplist {
+    width: 555px;
+}
+.inplist:focus {
+    outline-color: red;
+}
